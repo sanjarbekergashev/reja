@@ -2,9 +2,11 @@
   "name": "Steve",
   "profession": "Software Engineer",
   "age": 20,
-  "residence": "S.Korea",
-  "adress": "S.Kore, Busan",
-  "languages": ["Uzbek", "Korean", "English"],
+  "Freelance": "Available",
+  "residence": "BD",
+  "ads": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vitae nulla diam in ac dictum a urna viverra morbi.",
+  "adress": "Dhaka,Bangladesh",
+  "languages": ["Bangla", "English", "Spanish"],
   "skills": ["HTML", "Css", "Js", "NodeJs", "Pyton"],
   "extra_skills": [
     "Bootstrap, Materialize",
@@ -12,8 +14,25 @@
     "Django, Flask",
     "GIT Knowledge"
   ],
+
+  "services": [
+    "web development",
+    "uI/uX design",
+    "sound design",
+    "game design",
+    "photography",
+    "Advertising"
+  ],
+
+  "services_desc": [
+    "blog, e-commerce",
+    "Mobile app, website design",
+    "Voice Over, Beat Making",
+    "Character Design, Props & Objects",
+    "portrait, product photography"
+  ],
   "work_place": "IT Company",
-  "service_desc": "Amet minim mollit non desurn ullamco est sit aliqua dolor do amet sint . Velit officia consequate",
+  "service_desc": "Amet Minim Mollit Non Deseurnt Ullamco Est Sit Aliqua Dolor Do Amet Sint . Velit Officia Consequate Duis Enim Vaelit Molit.",
   "about_me": "lorem ipsum dolor sit amet, consectetur adipscing elit. Et, volutpat feugiat placert lobortis",
   "city": "Denua",
   "title": ["Flower", "Seedlings", "Gardner", "Old", "New"],
