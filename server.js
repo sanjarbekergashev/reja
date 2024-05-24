@@ -3,10 +3,10 @@ const http = require("http");
 // const { required } = require("nodemon/lib/config");
 
 const mongodb = require("mongodb");
-let db;
+// let db;
 const connectionString =
   "mongodb+srv://sanjarbekk9119:3eDpKx53kybtGh5a@cluster0.pm3lgqo.mongodb.net/Reja";
-
+// 3eDpKx53kybtGh5a
 mongodb.connect(
   connectionString,
   {

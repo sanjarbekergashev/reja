@@ -14,7 +14,7 @@ function countDigits(string) {
   return Count++;
 }
 
-const result = "ksd724648diuedwe76673";
+const result = "ad2a54y79wet0sfgb9";
 console.log(countDigits(result));
 
 // A-TASK:
